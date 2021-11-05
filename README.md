@@ -1,2 +1,3 @@
-# stocks-analysis
-Analyze financial data for Steve
+# Stocks-Analysis
+
+## Analyze financial data for Steve
